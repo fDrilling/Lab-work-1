@@ -16,5 +16,8 @@ In this programming lab assignment I had to create an algorithm to convert a nuc
 # Usage of this algorithm
 The algorithm itself consists of a single file, **main.py** or **main.ipynb** (choose one).
 You just need to insert the relative path of XYZ file into the **fileopen** line:
+![alt text](https://github.com/fDrilling/Nucleoside-xyz-to-pdb-Lab-work/blob/b40d540288120625f6add1d5ca1d72ca5bf46f5d/png/fileopen_line.png)
 
+You can take the examples of nucleosides from folder **nucleosides_xyz**
+After running the code you will get **result.pdb** which you can use as you like.
 
