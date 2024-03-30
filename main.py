@@ -166,7 +166,7 @@ for i in n_atom_3C[0:3]:            # desoxiribose part
                 update_result(s, 'H1`')
             elif s[0] == 'O':
                 new_atom = s
-                update_result(s, 'O')
+                update_result(s, 'O4`')
                 
                 for k in path_division(new_atom, i):                     # По О > C4`                                                                              
                     update_result(k, 'C4`')
