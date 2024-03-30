@@ -14,4 +14,7 @@ In this programming lab assignment I had to create an algorithm to convert a nuc
 
 
 # Usage of this algorithm
-The algorithm itself consists of a single file, main.py or main.ipynb (choose one).
+The algorithm itself consists of a single file, **main.py** or **main.ipynb** (choose one).
+You just need to insert the relative path of XYZ file into the **fileopen** line:
+
+
