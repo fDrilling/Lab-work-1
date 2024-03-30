@@ -10,4 +10,4 @@ In this programming lab assignment I had to create an algorithm to convert a nuc
 ![alt text](https://github.com/fDrilling/Nucleoside-xyz-to-pdb-Lab-work/blob/9a9d92b4033eecdca99006e0d6457c05b381c3d4/png/File%20tranformed.png)
 
 # PDB file visualisation with PyMol
-![alt text]()
+![alt text](https://github.com/fDrilling/Nucleoside-xyz-to-pdb-Lab-work/blob/65d11dcfba275c6a4f3e160c8217a22e77e6fcee/png/Pymol%20visualization.png)
