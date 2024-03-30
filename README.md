@@ -14,13 +14,13 @@ In this programming lab assignment I had to create an algorithm to convert a nuc
 
 
 # Usage of this algorithm
-The algorithm itself consists of a single file, **main.py** or **main.ipynb** (choose one).
+The algorithm itself consists of a single file, ```main.py``` or ```main.ipynb``` (choose one).
 You just need to insert the relative path of XYZ file into the **fileopen** line:
 ```
 #Відкриття файла і зчитування данних. 
 xyz_file = open("1_r9_xyz_dftV3#r9_001_AaabC.xyz")
 ```
-You can take the examples of nucleosides from folder **nucleosides_xyz**.    
+You can take the examples of nucleosides from folder ```nucleosides_xyz```.    
 
-After running the code you will get **result.pdb** which you can use as you like.
+After running the code you will get ```result.pdb``` which you can use as you like.
 
