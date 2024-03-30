@@ -11,3 +11,7 @@ In this programming lab assignment I had to create an algorithm to convert a nuc
 
 # PDB file visualisation with PyMol
 ![alt text](https://github.com/fDrilling/Nucleoside-xyz-to-pdb-Lab-work/blob/65d11dcfba275c6a4f3e160c8217a22e77e6fcee/png/Pymol%20visualization.png)
+
+
+# Usage of mine algorithm
+The algorithm itself consists of a single file, main.py or main.ipynb (choose one).
