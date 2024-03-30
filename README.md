@@ -7,4 +7,4 @@ So this is the example of xyz file being transformed:
 ![alt text](https://github.com/fDrilling/Nucleoside-xyz-to-pdb-Lab-work/blob/73b2fcdddcbe54f0edfa91841f7f709c5a944b06/png/File%20taken.png)
 
 This PDB is the result of the file transformation by my algorithm:
-![alt text]()
+![alt text](png/File tranformed.png)
